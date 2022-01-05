@@ -4,3 +4,23 @@ body{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 35px;
+}
+h3{
+    font-size: 25px;
+}
+a{
+    text-decoration: none;
+    background-image: linear-gradient(red, tomato);
+    padding: 10px 30px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.flexible-section{
+    display: flex;
+}
